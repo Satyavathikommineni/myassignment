@@ -34,10 +34,10 @@ button {
     border: 1px solid #ccc;
 }
 
-/* Responsive styles */
+
 @media only screen and (max-width: 767px) {
     .product-card {
-        width: 100%; /* Make cards take full width on small screens */
+        width: 100%; 
     }
 }
 
